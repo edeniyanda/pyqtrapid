@@ -15,7 +15,7 @@ setup (
     },
 
     classifiers=[
-        "Development Status :: 3 - Alpha",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
